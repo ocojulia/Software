@@ -16,8 +16,8 @@ public class StudentArray {
     {
         char[] ch=new char[5];
         Student[] s=new Student[5];
-        s[0].id=10;
-        s[0].name="Megha";
+        s[0].setId(10);
+        s[0].setName("Megha");
     
     }
     

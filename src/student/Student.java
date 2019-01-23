@@ -11,8 +11,8 @@ package student;
  * @author Megha,week1
  */
 public class Student {
-        public String name;
-        public int id;
+        private String name;
+        private int id;
 
     /**
      * @return the name
